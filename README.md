@@ -5,3 +5,4 @@ repository for test
 
 **it's repository for test github features**
 
+**working now on VS code on segamegadrivex**
