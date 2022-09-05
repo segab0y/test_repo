@@ -15,3 +15,6 @@ go get some sleep zZz...
 ...
 
 **working now on VS code on B01T from work perm4**
+
+**working again from home**
+ 
